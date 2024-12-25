@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "SS.C": "cpp",
+    "app.h": "c",
+    "led.h": "c",
+    "adc.h": "c",
+    "gpio.h": "c",
+    "systick.h": "c"
+  }
+}

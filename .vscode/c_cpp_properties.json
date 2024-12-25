@@ -1,0 +1,47 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/pitoa/Desktop/Micro-Lab-main/include",
+                "C:/Users/pitoa/Desktop/Micro-Lab-main/src",
+                "C:/Users/pitoa/.platformio/packages/framework-libopencm3",
+                "C:/Users/pitoa/.platformio/packages/framework-libopencm3/include",
+                "C:/Users/pitoa/Desktop/Micro-Lab-main/lib/STM32F10x_StdPeriph_Driver/src",
+                "C:/Users/pitoa/Desktop/Micro-Lab-main/.pio/libdeps/genericSTM32F103C6/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/pitoa/Desktop/Micro-Lab-main/include",
+                    "C:/Users/pitoa/Desktop/Micro-Lab-main/src",
+                    "C:/Users/pitoa/.platformio/packages/framework-libopencm3",
+                    "C:/Users/pitoa/.platformio/packages/framework-libopencm3/include",
+                    "C:/Users/pitoa/Desktop/Micro-Lab-main/lib/STM32F10x_StdPeriph_Driver/src",
+                    "C:/Users/pitoa/Desktop/Micro-Lab-main/.pio/libdeps/genericSTM32F103C6/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60116",
+                "STM32F103x6",
+                "STM32F1",
+                "F_CPU=72000000L",
+                ""
+            ],
+            "compilerPath": "C:/Users/pitoa/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
