@@ -5,6 +5,7 @@
     "led.h": "c",
     "adc.h": "c",
     "gpio.h": "c",
-    "systick.h": "c"
+    "systick.h": "c",
+    "btn.h": "c"
   }
 }

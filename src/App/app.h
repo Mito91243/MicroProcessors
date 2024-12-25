@@ -10,6 +10,9 @@
 #include "../HAL/TIMER/timer.h"
 #include "../HAL/ADC/ADC.h"
 #include "../HAL/GPIO/gpio.h"
+#include "../HAL/USART/USART.h"
+
+#include "../Middleware/helpers/helper.h"
 
 void APP_Init(void);
 void APP_Loop(void);

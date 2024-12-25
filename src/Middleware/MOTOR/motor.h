@@ -2,7 +2,6 @@
 #define __MOTOR_H__
 #include "../../HAL/GPIO/gpio.h"
 #include "../../HAL/register.h"
-
 typedef enum
 {
     ANTICLOCKWISE,
