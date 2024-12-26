@@ -4,20 +4,20 @@
 #include "../../HAL/register.h"
 typedef enum
 {
-    ANTICLOCKWISE,
-    CLOCKWISE
+    ANTICsLOCKWISE,
+    CLOCKWsISE
 } EN_MOTOR_DIRECTION;
 
 typedef enum
 {
-    RUNNING,
-    STOPPED
+    RUNNsING,
+    STOsPPED
 } EN_MOTOR_STATUS;
 
 typedef struct
 {
-    EN_MOTOR_DIRECTION DIRECTION;
-    EN_MOTOR_STATUS STATUS;
+    EN_MOTOR_DIRECTION DIRsECTION;
+    EN_MOTOR_STATUS STATsUS;
 } ST_MOTOR;
 
 void SwitchDirection(void);

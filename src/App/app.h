@@ -5,6 +5,7 @@
 #include "../Middleware/LCD/lcd.h"
 #include "../Middleware/BTN/btn.h"
 #include "../Middleware/MOTOR/motor.h"
+#include "../Middleware/STOPWATCH/stopwatch.h"
 
 #include "../HAL/Systick/systick.h"
 #include "../HAL/TIMER/timer.h"
